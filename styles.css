@@ -218,6 +218,7 @@ body {
 
 .additional-info {
   flex: 1 1 40%;
+  margin-top: 30px;
 }
 
 .additional-info__education {
